@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KelvinBot 🤖
 
 A Discord bot built with Python by Kelvin Peter Bally.
@@ -14,7 +15,7 @@ A Discord bot built with Python by Kelvin Peter Bally.
 
 ## How to install
 1. Clone this repository:
-   git clone https://github.com/YourUsername/your-repo
+   git clone https://github.com/kpeter333/Discordbot
 
 2. Navigate into the folder:
    cd your-repo
@@ -30,3 +31,7 @@ A Discord bot built with Python by Kelvin Peter Bally.
 
 ## Made by
 Kelvin Peter Bally
+=======
+# Discordbot
+A Discord bot built with Python that introduces itself, responds to commands, and was created by Kelvin Peter Bally 🤖🐍
+>>>>>>> 8f385e4bf8dd6182eb0ffad21f4de91840da497c
